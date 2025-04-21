@@ -1,18 +1,25 @@
 # Now Learning Tracker
 
-A personal web app that tracks daily learning progress and skill-building milestones.
+> A dynamic, data‑driven tracker to log daily coding learnings—built with HTML, CSS Grid, and vanilla JS.
 
-📌 **Built with**:  
-- HTML5  
-- CSS3  
-- JavaScript  
+## 🚀 Live Demo
+https://marcuspiperallen.github.io/now-learning-tracker/
 
-🧠 **Features**:  
-- Displays a daily progress update  
-- Rotates inspirational learning quotes  
-- Uses DOM manipulation with JavaScript  
-- Organized for GitHub Pages deployment
+## 🛠 Technologies Used
+- HTML5 & CSS3 (Grid / Flexbox)
+- JavaScript (DOM manipulation, recursion)
+- GitHub Pages for hosting
 
-🔗 **Live Project**: [https://marcuspiperallen.github.io/now-learning-tracker/](https://marcuspiperallen.github.io/now-learning-tracker/)
+## 🚧 Installation
+1. Clone the repo  
+   `git clone https://github.com/MarcusPiperAllen/now-learning-tracker.git`
+2. Open `index.html` in your browser.
 
-📁 **Repository**: [GitHub Repo](https://github.com/MarcusPiperAllen/now-learning-tracker)
+## 📸 Screenshots  
+![Tracker on Desktop](./assets/desktop.png)  
+![Tracker on Mobile](./assets/mobile.png)
+
+## 🤔 Challenges & Next Steps
+- Dynamically render 14+ entries via an array-of‑objects → DOM  
+- Add localStorage support to persist entries  
+- Build a simple form UI to add days from the browser
