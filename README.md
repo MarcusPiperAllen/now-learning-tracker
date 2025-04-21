@@ -1,6 +1,6 @@
 # Now Learning Tracker
 
-> A dynamic, data‑driven tracker to log daily coding learnings—built with HTML, CSS Grid, and vanilla JS.
+> A dynamic, data‑driven tracker to log daily coding learnings — built with HTML, CSS Grid, and vanilla JS.
 
 ## 🚀 Live Demo
 https://marcuspiperallen.github.io/now-learning-tracker/
@@ -15,11 +15,7 @@ https://marcuspiperallen.github.io/now-learning-tracker/
    `git clone https://github.com/MarcusPiperAllen/now-learning-tracker.git`
 2. Open `index.html` in your browser.
 
-## 📸 Screenshots  
-![Tracker on Desktop](./assets/desktop.png)  
-![Tracker on Mobile](./assets/mobile.png)
-
 ## 🤔 Challenges & Next Steps
 - Dynamically render 14+ entries via an array-of‑objects → DOM  
 - Add localStorage support to persist entries  
-- Build a simple form UI to add days from the browser
+- Build a simple form UI to add days from the browser  
